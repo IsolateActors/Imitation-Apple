@@ -1,0 +1,59 @@
+.banner {
+	width: 100%;
+	height: 735px;
+	background-image: url(../img/AppleWatch.jpg);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-color: #000000;
+	text-align: center;
+	padding-top: 49px;
+}
+
+.banner h2 {
+	width: 100%;
+	height: 57px;
+	background-image: url(../img/appleWatchSeries6.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	font-size: 56px;
+	line-height: 1.07143;
+	font-weight: 600;
+}
+
+.banner p {
+	margin-top: 15px;
+	margin-right: -11.193px;
+	padding-left: 11.2px;
+	font-size: 24px;
+	line-height: 1.10722;
+	font-weight: 400;
+	letter-spacing: .004em;
+	color: #f5f5f7;
+}
+
+.banner .link {
+	margin-top: 13.650px;
+}
+
+.banner .link a {
+	display: inline-block;
+	margin-left: -4px;
+	font-size: 18px;
+	line-height: 1.381;
+	font-weight: 400;
+	letter-spacing: .011em;
+	font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	margin-top: .65em;
+	text-decoration: none;
+	color: #2997ff;
+}
+
+.banner .link a:nth-child(2) {
+	margin-left: 35px;
+}
+
+.banner .link span {
+	margin-left: 6.300px;
+	font-family: "SF Pro Icons";
+	color: inherit;
+}
